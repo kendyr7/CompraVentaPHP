@@ -1,7 +1,7 @@
 <?php
   class Empresa extends Conectar{
     /* TODO: Listar Registros */
-    public function get_empresa_x_suc_id($com_id){
+    public function get_empresa_x_com_id($com_id){
       $conectar=parent::Conexion();
       $sql="SP_L_EMPRESA_01 ?";
       $query=$conectar->prepare($sql);
