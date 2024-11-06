@@ -1,0 +1,17 @@
+﻿PROD_ID;SUC_ID;CAT_ID;PROD_NOM;PROD_DESCRIP;UND_ID;MON_ID;PROD_PCOMPRA;PROD_PVENTA;PROD_STOCK;PROD_FECHAVEN;PROD_IMG;FECH_CREA;EST
+;1;1;Taladro Eléctrico;Taladro de alta potencia para uso en construcciones;;;850;1200;50;;;;1
+;1;1;Llave Inglesa;Herramienta ajustable para trabajos de precisión;;;200;320;150;;;;1
+;1;1;Juego de Destornilladores;Set de destornilladores multiuso de alta calidad;;;180;250;150;;;;1
+;1;1;Martillo de Carpintero;Martillo ergonómico para trabajos en madera;;;210;300;200;;;;1
+;1;2;Cable Eléctrico 12V;Cable de alta resistencia para instalaciones eléctricas;;;75;120;100;;;;1
+;1;2;Foco LED;Lámpara LED de bajo consumo y alta duración;;;90;150;100;;;;1
+;1;4;Pintura Acrílica;Pintura de secado rápido para interiores y exteriores;;;320;450;400;;;;1
+;1;4;Brocha para Pintura;Brocha de cerdas suaves para acabado profesional;;;40;70;350;;;;1
+;1;5;"Tubo PVC 1""";Tubo resistente para sistemas de agua y drenaje;;;100;180;280;;;;1
+;1;6;Kit de Seguridad;Equipo de protección básico para obras;;;500;750;90;;;;1
+;1;6;Guantes de Seguridad;Guantes de protección resistentes a cortes;;;60;100;490;;;;1
+;1;7;Silla de Jardín;Silla plástica resistente a condiciones exteriores;;;180;280;55;;;;1
+;1;7;Abono para Jardín;Fertilizante para mejorar la calidad del suelo;;;120;200;89;;;;1
+;1;8;Cerradura de Seguridad;Cerradura reforzada con mecanismo anti-robo;;;350;500;197;;;;1
+;1;8;Candado de Acero;Candado resistente para asegurar puertas y cercas;;;90;130;570;;;;1
+;1;9;Mesa de Centro;Mesa de centro moderna para salas o recepciones;;;650;900;50;;;;

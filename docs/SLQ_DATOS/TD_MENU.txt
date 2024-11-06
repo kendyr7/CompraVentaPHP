@@ -1,0 +1,12 @@
+﻿MEND_ID;MEN_ID;ROL_ID;MEND_PERMI;FECH_CREA;EST
+;1;1;No;;1
+;2;1;No;;1
+;3;1;No;;1
+;4;1;No;;1
+;5;1;No;;1
+;6;1;No;;1
+;7;1;No;;1
+;8;1;No;;1
+;9;1;No;;1
+;10;1;No;;1
+;11;1;No;;1

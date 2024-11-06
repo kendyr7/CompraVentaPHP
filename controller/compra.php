@@ -23,7 +23,7 @@
             $datos=$compra->get_compra_calculo($_POST["compr_id"]);
             foreach($datos as $row){
                 $output["COMPR_SUBTOTAL"] = $row["COMPR_SUBTOTAL"];
-                $output["COMPR_IGV"] = $row["COMPR_IGV"];
+                $output["COMPR_IVA"] = $row["COMPR_IVA"];
                 $output["COMPR_TOTAL"] = $row["COMPR_TOTAL"];
             }
             echo json_encode($output);
@@ -75,7 +75,7 @@
             $datos=$compra->get_compra_detalle($_POST["compr_id"]);
             foreach($datos as $row){
                 ?>
-                     <tr>
+                    <tr>
                         <td>
                             <?php 
                                 if ($row["PROD_IMG"] != ''){
@@ -138,7 +138,7 @@
                 $output["PROV_DIRECC"] = $row["PROV_DIRECC"];
                 $output["PROV_CORREO"] = $row["PROV_CORREO"];
                 $output["COMPR_SUBTOTAL"] = $row["COMPR_SUBTOTAL"];
-                $output["COMPR_IGV"] = $row["COMPR_IGV"];
+                $output["COMPR_IVA"] = $row["COMPR_IVA"];
                 $output["COMPR_TOTAL"] = $row["COMPR_TOTAL"];
                 $output["COMPR_COMENT"] = $row["COMPR_COMENT"];
                 $output["USU_ID"] = $row["USU_ID"];
@@ -173,7 +173,7 @@
                 $sub_array[] = $row["PAG_NOM"];
                 $sub_array[] = $row["MON_NOM"];
                 $sub_array[] = $row["COMPR_SUBTOTAL"];
-                $sub_array[] = $row["COMPR_IGV"];
+                $sub_array[] = $row["COMPR_IVA"];
                 $sub_array[] = $row["COMPR_TOTAL"];
                 $sub_array[] = $row["USU_NOM"]." ".$row["USU_APE"];
                 if ($row["USU_IMG"] != ''){

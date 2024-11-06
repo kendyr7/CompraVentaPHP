@@ -10,7 +10,7 @@
 <!doctype html>
 <html lang="es" data-layout="vertical" data-topbar="light" data-sidebar="dark" data-sidebar-size="lg" data-sidebar-image="none">
 <head>
-    <title>AnderCode | Venta</title>
+    <title>Venta | InventorPRO</title>
     <?php require_once("../html/head.php"); ?>
 </head>
 
@@ -225,8 +225,8 @@
                                                 <td class="text-end" id="txtsubtotal">0</td>
                                             </tr>
                                             <tr>
-                                                <td>IGV (18%)</td>
-                                                <td class="text-end" id="txtigv">0</td>
+                                                <td>IVA (15%)</td>
+                                                <td class="text-end" id="txtiva">0</td>
                                             </tr>
                                             <tr class="border-top border-top-dashed fs-15">
                                                 <th scope="row">Total</th>

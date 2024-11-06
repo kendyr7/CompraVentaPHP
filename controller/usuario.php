@@ -14,7 +14,7 @@
                     $_POST["usu_correo"],
                     $_POST["usu_nom"],
                     $_POST["usu_ape"],
-                    $_POST["usu_dni"],
+                    $_POST["usu_ced"],
                     $_POST["usu_telf"],
                     $_POST["usu_pass"],
                     $_POST["rol_id"],
@@ -27,7 +27,7 @@
                     $_POST["usu_correo"],
                     $_POST["usu_nom"],
                     $_POST["usu_ape"],
-                    $_POST["usu_dni"],
+                    $_POST["usu_ced"],
                     $_POST["usu_telf"],
                     $_POST["usu_pass"],
                     $_POST["rol_id"],
@@ -61,7 +61,7 @@
                 $sub_array[] = $row["USU_CORREO"];
                 $sub_array[] = $row["USU_NOM"];
                 $sub_array[] = $row["USU_APE"];
-                $sub_array[] = $row["USU_DNI"];
+                $sub_array[] = $row["USU_CED"];
                 $sub_array[] = $row["USU_TELF"];
                 $sub_array[] = $row["USU_PASS"];
                 $sub_array[] = $row["ROL_NOM"];
@@ -89,7 +89,7 @@
                     $output["USU_NOM"] = $row["USU_NOM"];
                     $output["USU_APE"] = $row["USU_APE"];
                     $output["USU_CORREO"] = $row["USU_CORREO"];
-                    $output["USU_DNI"] = $row["USU_DNI"];
+                    $output["USU_CED"] = $row["USU_CED"];
                     $output["USU_TELF"] = $row["USU_TELF"];
                     $output["USU_PASS"] = $row["USU_PASS"];
                     $output["ROL_ID"] = $row["ROL_ID"];

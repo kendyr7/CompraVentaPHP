@@ -30,7 +30,7 @@
         }
 
         /* TODO: Registro de datos */
-        public function insert_usuario($suc_id,$usu_correo,$usu_nom,$usu_ape,$usu_dni,$usu_telf,$usu_pass,$rol_id,$usu_img){
+        public function insert_usuario($suc_id,$usu_correo,$usu_nom,$usu_ape,$usu_ced,$usu_telf,$usu_pass,$rol_id,$usu_img){
             $conectar=parent::Conexion();
 
             require_once("Usuario.php");
@@ -46,7 +46,7 @@
             $query->bindValue(2,$usu_correo);
             $query->bindValue(3,$usu_nom);
             $query->bindValue(4,$usu_ape);
-            $query->bindValue(5,$usu_dni);
+            $query->bindValue(5,$usu_ced);
             $query->bindValue(6,$usu_telf);
             $query->bindValue(7,$usu_pass);
             $query->bindValue(8,$rol_id);
@@ -55,7 +55,7 @@
         }
 
         /* TODO:Actualizar Datos */
-        public function update_usuario($usu_id,$suc_id,$usu_correo,$usu_nom,$usu_ape,$usu_dni,$usu_telf,$usu_pass,$rol_id,$usu_img){
+        public function update_usuario($usu_id,$suc_id,$usu_correo,$usu_nom,$usu_ape,$usu_ced,$usu_telf,$usu_pass,$rol_id,$usu_img){
             $conectar=parent::Conexion();
 
             require_once("Usuario.php");
@@ -74,7 +74,7 @@
             $query->bindValue(3,$usu_correo);
             $query->bindValue(4,$usu_nom);
             $query->bindValue(5,$usu_ape);
-            $query->bindValue(6,$usu_dni);
+            $query->bindValue(6,$usu_ced);
             $query->bindValue(7,$usu_telf);
             $query->bindValue(8,$usu_pass);
             $query->bindValue(9,$rol_id);

@@ -634,8 +634,8 @@
 <!-- Sweet alert init js-->
 <script src="../../assets/js/pages/sweetalerts.init.js"></script>
 
- <!-- prismjs plugin -->
- <script src="../../assets/libs/prismjs/prism.js"></script>
+<!-- prismjs plugin -->
+<script src="../../assets/libs/prismjs/prism.js"></script>
 
 <!-- Lord Icon -->
 <script src="https://cdn.lordicon.com/libs/mssddfmo/lord-icon-2.1.0.js"></script>

@@ -100,7 +100,7 @@ function ver(vent_id){
     $.post("../../controller/venta.php?op=calculo",{vent_id:vent_id},function(data){
         data=JSON.parse(data);
         $('#txtsubtotal').html(data.VENT_SUBTOTAL);
-        $('#txtigv').html(data.VENT_IGV);
+        $('#txtiva').html(data.VENT_IVA);
         $('#txttotal').html(data.VENT_TOTAL);
     });
 

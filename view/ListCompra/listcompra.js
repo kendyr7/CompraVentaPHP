@@ -100,7 +100,7 @@ function ver(compr_id){
     $.post("../../controller/compra.php?op=calculo",{compr_id:compr_id},function(data){
         data=JSON.parse(data);
         $('#txtsubtotal').html(data.COMPR_SUBTOTAL);
-        $('#txtigv').html(data.COMPR_IGV);
+        $('#txtiva').html(data.COMPR_IVA);
         $('#txttotal').html(data.COMPR_TOTAL);
     });
 

@@ -1,0 +1,13 @@
+﻿PROV_ID;EMP_ID;PROV_NOM;PROV_RUC;PROV_TELF;PROV_DIRECC;PROV_CORREO;FECH_CREA;EST
+;1;ALVIA COMERCIAL S.A. ;8923740913;22706090;Rotonda Rigoberto López Pérez 150m al S Ave Universitaria, Managua;alivia_com@ventas.com;;1
+;1;ALUMICENTRO DE NICARAGUA S.A.;1245983726;22400759;Semaf del Dancing 5c al Sur, Managua;alumicentrodenicaragua@gmail.com;;1
+;1;POSTES ATLAS DE NICARAGUA S.A.;6572938410;84086701;Sabana Grande Urbanizac Ríos de Agua Viva 2 Km al Oe Contiguo al Country Club N, Managua;servicioalcliente@productosatlas.com;;1
+;1;PROINSA;9084765123;22667231;Montoya 1c al S 1/2c abajo, Managua;info@proinsanic.com;;1
+;2;ALVIA COMERCIAL S.A. ;8923740913;22706090;Rotonda Rigoberto López Pérez 150m al S Ave Universitaria, Managua;alivia_com@ventas.com;;1
+;2;ALUMICENTRO DE NICARAGUA S.A.;1245983726;22400759;Semaf del Dancing 5c al Sur, Managua;alumicentrodenicaragua@gmail.com;;1
+;2;POSTES ATLAS DE NICARAGUA S.A.;6572938410;84086701;Sabana Grande Urbanizac Ríos de Agua Viva 2 Km al Oe Contiguo al Country Club N, Managua;servicioalcliente@productosatlas.com;;1
+;2;PROINSA;9084765123;22667231;Montoya 1c al S 1/2c abajo, Managua;info@proinsanic.com;;1
+;3;ALVIA COMERCIAL S.A. ;8923740913;22706090;Rotonda Rigoberto López Pérez 150m al S Ave Universitaria, Managua;alivia_com@ventas.com;;1
+;3;ALUMICENTRO DE NICARAGUA S.A.;1245983726;22400759;Semaf del Dancing 5c al Sur, Managua;alumicentrodenicaragua@gmail.com;;1
+;3;POSTES ATLAS DE NICARAGUA S.A.;6572938410;84086701;Sabana Grande Urbanizac Ríos de Agua Viva 2 Km al Oe Contiguo al Country Club N, Managua;servicioalcliente@productosatlas.com;;1
+;3;PROINSA;9084765123;22667231;Montoya 1c al S 1/2c abajo, Managua;info@proinsanic.com;;1

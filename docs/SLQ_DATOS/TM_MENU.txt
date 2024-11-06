@@ -1,0 +1,12 @@
+﻿MEN_ID;MEN_NOM;MEN_RUTA;MEN_IDENTI;FECH_CREA;EST
+1;Dashboard;../home/;dashboard;;1
+2;Mnt.Categoria;../MntCategoria/;mntcategoria;;1
+3;Mnt.Producto;../MntProducto/;mntproducto;;1
+4;Mnt.Cliente;../MntCliente/;mntcliente;;1
+5;Mnt.Proveedor;../MntProveedor/;mntproveedor;;1
+6;Mnt.Moneda;../MntMoneda/;mntmoneda;;1
+7;Mnt.UndMedida;../MntUndMedida/;mntundmedida;;1
+8;Mnt.Empresa;../MntEmpresa/;mntempresa;;1
+9;Mnt.Sucursal;../MntSucursal/;mntsucursal;;1
+10;Mnt.Usuario;../MntUsuario/;mntusuario;;1
+11;Mnt.Rol;../MntRol/;mntrol;;1

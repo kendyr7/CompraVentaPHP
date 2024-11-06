@@ -9,7 +9,7 @@
 
         /* TODO: Listado de registros formato JSON para Datatable JS */
         case "listar":
-           
+        
             $datos=$menu->get_menu_x_rol_id($_POST["rol_id"]);
             $data=Array();
             foreach($datos as $row){

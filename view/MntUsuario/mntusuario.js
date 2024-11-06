@@ -90,7 +90,7 @@ function editar(usu_id){
         $('#usu_correo').val(data.USU_CORREO);
         $('#usu_nom').val(data.USU_NOM);
         $('#usu_ape').val(data.USU_APE);
-        $('#usu_dni').val(data.USU_DNI);
+        $('#usu_ced').val(data.USU_CED);
         $('#usu_telf').val(data.USU_TELF);
         $('#usu_pass').val(data.USU_PASS);
         $('#rol_id').val(data.ROL_ID).trigger('change');

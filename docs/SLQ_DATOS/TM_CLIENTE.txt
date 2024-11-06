@@ -1,0 +1,10 @@
+﻿CLI_ID;EMP_ID;CLI_NOM;CLI_RUC;CLI_TELF;CLI_DIRECC;CLI_CORREO;FECH_CREA;EST
+;1;SINTER, S.A;6599190957;22780177;Rotonda Periodista 100m al Sur, Managua;ventas@sinter.com.ni;;1
+;1;PROBACONS, S.A. ;2022987569;22334688;Pista El Mayoreo Petrogas 100 vrs Sur, Managua;probacon@ibw.com.ni;;1
+;1;GRUPO ITM ;7584285305;22207852;Km 23 Carret Nueva a León, Lof Prado de las Mercedes, Managua;ventas-ca@grupoitm.net;;1
+;2;GYPSUM TOTAL ;2331903122;22761295;Km 9 1/2 Carretera a Masaya, Plaza Guanacaste, Managua;gerenciageneral@gyosumtotal.com.ni;;1
+;2;GRUPO SINSA ;3472132321;22787777;Altamira D'este Calle Principal, Managua;sinsa-ventas@sinsa.con.ni;;1
+;2;FETESA ;7761644324;22649191;Carret Norte Km 5 1/2 Semáf Portezuelo 800m al N, Managua;ventas@fetesa.com.ni;;1
+;3;FERRETERIA JENNY ;1805987897;22482880;Entr Hosp del Niño 75vs Arr Pista de La Solidaridad, Managua;ventas@ferreteriajenny.com;;1
+;3;DIMACO ;6594439097;22681200;Carret a La Refinería Sandak 1c al Oeste, Managua;dimaco@cablenet.com.ni;;1
+;3;CEMEX NICARAGUA, S.A. ;6539652679;22558918;Carret Sur Km 3 1/2, 500m desvio a Batahola, Managua;ventas@cemex@com.ni;;1

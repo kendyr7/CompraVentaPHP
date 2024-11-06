@@ -9,7 +9,7 @@
 <!doctype html>
 <html lang="es" data-layout="vertical" data-topbar="light" data-sidebar="dark" data-sidebar-size="lg" data-sidebar-image="none">
 <head>
-    <title>AnderCode | Usuario</title>
+    <title>Usuario | InventorPRO</title>
     <?php require_once("../html/head.php"); ?>
 </head>
 
@@ -52,7 +52,7 @@
                                                 <th>Correo</th>
                                                 <th>Nombre</th>
                                                 <th>Apellido</th>
-                                                <th>DNI</th>
+                                                <th>Cedula</th>
                                                 <th>Telefono</th>
                                                 <th>Contraseña</th>
                                                 <th>Rol</th>

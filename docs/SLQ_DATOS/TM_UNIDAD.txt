@@ -1,0 +1,43 @@
+﻿UND_ID;SUC_ID;UND_NOM;FECH_CREA;EST
+;1;Piezas;;1
+;1;Metros;;1
+;1;Sacos;;1
+;1;Metros cubicos;;1
+;1;Litros;;1
+;1;Galones;;1
+;1;Paquetes;;1
+;2;Piezas;;1
+;2;Metros;;1
+;2;Sacos;;1
+;2;Metros cubicos;;1
+;2;Litros;;1
+;2;Galones;;1
+;2;Paquetes;;1
+;3;Piezas;;1
+;3;Metros;;1
+;3;Sacos;;1
+;3;Metros cubicos;;1
+;3;Litros;;1
+;3;Galones;;1
+;3;Paquetes;;1
+;4;Piezas;;1
+;4;Metros;;1
+;4;Sacos;;1
+;4;Metros cubicos;;1
+;4;Litros;;1
+;4;Galones;;1
+;4;Paquetes;;1
+;5;Piezas;;1
+;5;Metros;;1
+;5;Sacos;;1
+;5;Metros cubicos;;1
+;5;Litros;;1
+;5;Galones;;1
+;5;Paquetes;;1
+;6;Piezas;;1
+;6;Metros;;1
+;6;Sacos;;1
+;6;Metros cubicos;;1
+;6;Litros;;1
+;6;Galones;;1
+;6;Paquetes;;1

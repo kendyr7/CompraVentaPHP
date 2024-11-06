@@ -1,0 +1,13 @@
+﻿MON_ID;SUC_ID;MON_NOM;FECH_CREA;EST
+;1;NIO;;1
+;1;DOL;;1
+;2;NIO;;1
+;2;DOL;;1
+;3;NIO;;1
+;3;DOL;;1
+;4;NIO;;1
+;4;DOL;;1
+;5;NIO;;1
+;5;DOL;;1
+;6;NIO;;1
+;6;DOL;;1

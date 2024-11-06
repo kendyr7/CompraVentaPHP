@@ -23,7 +23,7 @@
             $datos=$venta->get_venta_calculo($_POST["vent_id"]);
             foreach($datos as $row){
                 $output["VENT_SUBTOTAL"] = $row["VENT_SUBTOTAL"];
-                $output["VENT_IGV"] = $row["VENT_IGV"];
+                $output["VENT_IVA"] = $row["VENT_IVA"];
                 $output["VENT_TOTAL"] = $row["VENT_TOTAL"];
             }
             echo json_encode($output);
@@ -138,7 +138,7 @@
                 $output["CLI_DIRECC"] = $row["CLI_DIRECC"];
                 $output["CLI_CORREO"] = $row["CLI_CORREO"];
                 $output["VENT_SUBTOTAL"] = $row["VENT_SUBTOTAL"];
-                $output["VENT_IGV"] = $row["VENT_IGV"];
+                $output["VENT_IVA"] = $row["VENT_IVA"];
                 $output["VENT_TOTAL"] = $row["VENT_TOTAL"];
                 $output["VENT_COMENT"] = $row["VENT_COMENT"];
                 $output["USU_ID"] = $row["USU_ID"];
@@ -173,7 +173,7 @@
                 $sub_array[] = $row["PAG_NOM"];
                 $sub_array[] = $row["MON_NOM"];
                 $sub_array[] = $row["VENT_SUBTOTAL"];
-                $sub_array[] = $row["VENT_IGV"];
+                $sub_array[] = $row["VENT_IVA"];
                 $sub_array[] = $row["VENT_TOTAL"];
                 $sub_array[] = $row["USU_NOM"]." ".$row["USU_APE"];
                 if ($row["USU_IMG"] != ''){
